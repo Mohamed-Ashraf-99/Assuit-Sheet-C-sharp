@@ -1,0 +1,14 @@
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\E-Area-of-a-Circle\E-Area-of-a-Circle\bin\Debug\net8.0\E-Area-of-a-Circle.exe
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\E-Area-of-a-Circle\E-Area-of-a-Circle\bin\Debug\net8.0\E-Area-of-a-Circle.deps.json
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\E-Area-of-a-Circle\E-Area-of-a-Circle\bin\Debug\net8.0\E-Area-of-a-Circle.runtimeconfig.json
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\E-Area-of-a-Circle\E-Area-of-a-Circle\bin\Debug\net8.0\E-Area-of-a-Circle.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\E-Area-of-a-Circle\E-Area-of-a-Circle\bin\Debug\net8.0\E-Area-of-a-Circle.pdb
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\E-Area-of-a-Circle\E-Area-of-a-Circle\obj\Debug\net8.0\E-Area-of-a-Circle.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\E-Area-of-a-Circle\E-Area-of-a-Circle\obj\Debug\net8.0\E-Area-of-a-Circle.AssemblyInfoInputs.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\E-Area-of-a-Circle\E-Area-of-a-Circle\obj\Debug\net8.0\E-Area-of-a-Circle.AssemblyInfo.cs
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\E-Area-of-a-Circle\E-Area-of-a-Circle\obj\Debug\net8.0\E-Area-of-a-Circle.csproj.CoreCompileInputs.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\E-Area-of-a-Circle\E-Area-of-a-Circle\obj\Debug\net8.0\E-Area-of-a-Circle.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\E-Area-of-a-Circle\E-Area-of-a-Circle\obj\Debug\net8.0\refint\E-Area-of-a-Circle.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\E-Area-of-a-Circle\E-Area-of-a-Circle\obj\Debug\net8.0\E-Area-of-a-Circle.pdb
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\E-Area-of-a-Circle\E-Area-of-a-Circle\obj\Debug\net8.0\E-Area-of-a-Circle.genruntimeconfig.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\E-Area-of-a-Circle\E-Area-of-a-Circle\obj\Debug\net8.0\ref\E-Area-of-a-Circle.dll

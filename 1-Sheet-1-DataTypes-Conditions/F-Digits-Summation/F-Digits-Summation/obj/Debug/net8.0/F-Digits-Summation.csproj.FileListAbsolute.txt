@@ -1,0 +1,14 @@
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\F-Digits-Summation\F-Digits-Summation\bin\Debug\net8.0\F-Digits-Summation.exe
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\F-Digits-Summation\F-Digits-Summation\bin\Debug\net8.0\F-Digits-Summation.deps.json
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\F-Digits-Summation\F-Digits-Summation\bin\Debug\net8.0\F-Digits-Summation.runtimeconfig.json
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\F-Digits-Summation\F-Digits-Summation\bin\Debug\net8.0\F-Digits-Summation.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\F-Digits-Summation\F-Digits-Summation\bin\Debug\net8.0\F-Digits-Summation.pdb
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\F-Digits-Summation\F-Digits-Summation\obj\Debug\net8.0\F-Digits-Summation.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\F-Digits-Summation\F-Digits-Summation\obj\Debug\net8.0\F-Digits-Summation.AssemblyInfoInputs.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\F-Digits-Summation\F-Digits-Summation\obj\Debug\net8.0\F-Digits-Summation.AssemblyInfo.cs
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\F-Digits-Summation\F-Digits-Summation\obj\Debug\net8.0\F-Digits-Summation.csproj.CoreCompileInputs.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\F-Digits-Summation\F-Digits-Summation\obj\Debug\net8.0\F-Digits-Summation.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\F-Digits-Summation\F-Digits-Summation\obj\Debug\net8.0\refint\F-Digits-Summation.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\F-Digits-Summation\F-Digits-Summation\obj\Debug\net8.0\F-Digits-Summation.pdb
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\F-Digits-Summation\F-Digits-Summation\obj\Debug\net8.0\F-Digits-Summation.genruntimeconfig.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\F-Digits-Summation\F-Digits-Summation\obj\Debug\net8.0\ref\F-Digits-Summation.dll
