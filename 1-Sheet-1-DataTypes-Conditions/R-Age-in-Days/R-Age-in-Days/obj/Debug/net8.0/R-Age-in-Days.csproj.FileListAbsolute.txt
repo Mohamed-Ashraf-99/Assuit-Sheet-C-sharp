@@ -1,0 +1,14 @@
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\R-Age-in-Days\R-Age-in-Days\bin\Debug\net8.0\R-Age-in-Days.exe
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\R-Age-in-Days\R-Age-in-Days\bin\Debug\net8.0\R-Age-in-Days.deps.json
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\R-Age-in-Days\R-Age-in-Days\bin\Debug\net8.0\R-Age-in-Days.runtimeconfig.json
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\R-Age-in-Days\R-Age-in-Days\bin\Debug\net8.0\R-Age-in-Days.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\R-Age-in-Days\R-Age-in-Days\bin\Debug\net8.0\R-Age-in-Days.pdb
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\R-Age-in-Days\R-Age-in-Days\obj\Debug\net8.0\R-Age-in-Days.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\R-Age-in-Days\R-Age-in-Days\obj\Debug\net8.0\R-Age-in-Days.AssemblyInfoInputs.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\R-Age-in-Days\R-Age-in-Days\obj\Debug\net8.0\R-Age-in-Days.AssemblyInfo.cs
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\R-Age-in-Days\R-Age-in-Days\obj\Debug\net8.0\R-Age-in-Days.csproj.CoreCompileInputs.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\R-Age-in-Days\R-Age-in-Days\obj\Debug\net8.0\R-Age-in-Days.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\R-Age-in-Days\R-Age-in-Days\obj\Debug\net8.0\refint\R-Age-in-Days.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\R-Age-in-Days\R-Age-in-Days\obj\Debug\net8.0\R-Age-in-Days.pdb
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\R-Age-in-Days\R-Age-in-Days\obj\Debug\net8.0\R-Age-in-Days.genruntimeconfig.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\R-Age-in-Days\R-Age-in-Days\obj\Debug\net8.0\ref\R-Age-in-Days.dll
