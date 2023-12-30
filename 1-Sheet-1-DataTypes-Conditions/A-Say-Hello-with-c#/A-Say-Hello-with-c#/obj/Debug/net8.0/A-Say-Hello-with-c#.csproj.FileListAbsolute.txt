@@ -1,0 +1,14 @@
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\A-Say-Hello-with-c#\A-Say-Hello-with-c#\bin\Debug\net8.0\A-Say-Hello-with-c#.exe
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\A-Say-Hello-with-c#\A-Say-Hello-with-c#\bin\Debug\net8.0\A-Say-Hello-with-c#.deps.json
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\A-Say-Hello-with-c#\A-Say-Hello-with-c#\bin\Debug\net8.0\A-Say-Hello-with-c#.runtimeconfig.json
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\A-Say-Hello-with-c#\A-Say-Hello-with-c#\bin\Debug\net8.0\A-Say-Hello-with-c#.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\A-Say-Hello-with-c#\A-Say-Hello-with-c#\bin\Debug\net8.0\A-Say-Hello-with-c#.pdb
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\A-Say-Hello-with-c#\A-Say-Hello-with-c#\obj\Debug\net8.0\A-Say-Hello-with-c#.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\A-Say-Hello-with-c#\A-Say-Hello-with-c#\obj\Debug\net8.0\A-Say-Hello-with-c#.AssemblyInfoInputs.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\A-Say-Hello-with-c#\A-Say-Hello-with-c#\obj\Debug\net8.0\A-Say-Hello-with-c#.AssemblyInfo.cs
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\A-Say-Hello-with-c#\A-Say-Hello-with-c#\obj\Debug\net8.0\A-Say-Hello-with-c#.csproj.CoreCompileInputs.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\A-Say-Hello-with-c#\A-Say-Hello-with-c#\obj\Debug\net8.0\A-Say-Hello-with-c#.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\A-Say-Hello-with-c#\A-Say-Hello-with-c#\obj\Debug\net8.0\refint\A-Say-Hello-with-c#.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\A-Say-Hello-with-c#\A-Say-Hello-with-c#\obj\Debug\net8.0\A-Say-Hello-with-c#.pdb
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\A-Say-Hello-with-c#\A-Say-Hello-with-c#\obj\Debug\net8.0\A-Say-Hello-with-c#.genruntimeconfig.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\A-Say-Hello-with-c#\A-Say-Hello-with-c#\obj\Debug\net8.0\ref\A-Say-Hello-with-c#.dll

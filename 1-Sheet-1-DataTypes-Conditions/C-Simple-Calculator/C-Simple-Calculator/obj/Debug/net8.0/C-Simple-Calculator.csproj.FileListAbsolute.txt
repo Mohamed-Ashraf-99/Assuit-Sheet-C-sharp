@@ -1,0 +1,14 @@
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\C-Simple-Calculator\C-Simple-Calculator\bin\Debug\net8.0\C-Simple-Calculator.exe
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\C-Simple-Calculator\C-Simple-Calculator\bin\Debug\net8.0\C-Simple-Calculator.deps.json
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\C-Simple-Calculator\C-Simple-Calculator\bin\Debug\net8.0\C-Simple-Calculator.runtimeconfig.json
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\C-Simple-Calculator\C-Simple-Calculator\bin\Debug\net8.0\C-Simple-Calculator.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\C-Simple-Calculator\C-Simple-Calculator\bin\Debug\net8.0\C-Simple-Calculator.pdb
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\C-Simple-Calculator\C-Simple-Calculator\obj\Debug\net8.0\C-Simple-Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\C-Simple-Calculator\C-Simple-Calculator\obj\Debug\net8.0\C-Simple-Calculator.AssemblyInfoInputs.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\C-Simple-Calculator\C-Simple-Calculator\obj\Debug\net8.0\C-Simple-Calculator.AssemblyInfo.cs
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\C-Simple-Calculator\C-Simple-Calculator\obj\Debug\net8.0\C-Simple-Calculator.csproj.CoreCompileInputs.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\C-Simple-Calculator\C-Simple-Calculator\obj\Debug\net8.0\C-Simple-Calculator.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\C-Simple-Calculator\C-Simple-Calculator\obj\Debug\net8.0\refint\C-Simple-Calculator.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\C-Simple-Calculator\C-Simple-Calculator\obj\Debug\net8.0\C-Simple-Calculator.pdb
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\C-Simple-Calculator\C-Simple-Calculator\obj\Debug\net8.0\C-Simple-Calculator.genruntimeconfig.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\C-Simple-Calculator\C-Simple-Calculator\obj\Debug\net8.0\ref\C-Simple-Calculator.dll

@@ -1,0 +1,14 @@
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\B. Basic Data Types\B. Basic Data Types\bin\Debug\net8.0\B. Basic Data Types.exe
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\B. Basic Data Types\B. Basic Data Types\bin\Debug\net8.0\B. Basic Data Types.deps.json
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\B. Basic Data Types\B. Basic Data Types\bin\Debug\net8.0\B. Basic Data Types.runtimeconfig.json
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\B. Basic Data Types\B. Basic Data Types\bin\Debug\net8.0\B. Basic Data Types.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\B. Basic Data Types\B. Basic Data Types\bin\Debug\net8.0\B. Basic Data Types.pdb
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\B. Basic Data Types\B. Basic Data Types\obj\Debug\net8.0\B. Basic Data Types.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\B. Basic Data Types\B. Basic Data Types\obj\Debug\net8.0\B. Basic Data Types.AssemblyInfoInputs.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\B. Basic Data Types\B. Basic Data Types\obj\Debug\net8.0\B. Basic Data Types.AssemblyInfo.cs
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\B. Basic Data Types\B. Basic Data Types\obj\Debug\net8.0\B. Basic Data Types.csproj.CoreCompileInputs.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\B. Basic Data Types\B. Basic Data Types\obj\Debug\net8.0\B. Basic Data Types.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\B. Basic Data Types\B. Basic Data Types\obj\Debug\net8.0\refint\B. Basic Data Types.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\B. Basic Data Types\B. Basic Data Types\obj\Debug\net8.0\B. Basic Data Types.pdb
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\B. Basic Data Types\B. Basic Data Types\obj\Debug\net8.0\B. Basic Data Types.genruntimeconfig.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\B. Basic Data Types\B. Basic Data Types\obj\Debug\net8.0\ref\B. Basic Data Types.dll
