@@ -1,0 +1,14 @@
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\H-Two-numbers\H-Two-numbers\bin\Debug\net8.0\H-Two-numbers.exe
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\H-Two-numbers\H-Two-numbers\bin\Debug\net8.0\H-Two-numbers.deps.json
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\H-Two-numbers\H-Two-numbers\bin\Debug\net8.0\H-Two-numbers.runtimeconfig.json
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\H-Two-numbers\H-Two-numbers\bin\Debug\net8.0\H-Two-numbers.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\H-Two-numbers\H-Two-numbers\bin\Debug\net8.0\H-Two-numbers.pdb
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\H-Two-numbers\H-Two-numbers\obj\Debug\net8.0\H-Two-numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\H-Two-numbers\H-Two-numbers\obj\Debug\net8.0\H-Two-numbers.AssemblyInfoInputs.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\H-Two-numbers\H-Two-numbers\obj\Debug\net8.0\H-Two-numbers.AssemblyInfo.cs
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\H-Two-numbers\H-Two-numbers\obj\Debug\net8.0\H-Two-numbers.csproj.CoreCompileInputs.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\H-Two-numbers\H-Two-numbers\obj\Debug\net8.0\H-Two-numbers.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\H-Two-numbers\H-Two-numbers\obj\Debug\net8.0\refint\H-Two-numbers.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\H-Two-numbers\H-Two-numbers\obj\Debug\net8.0\H-Two-numbers.pdb
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\H-Two-numbers\H-Two-numbers\obj\Debug\net8.0\H-Two-numbers.genruntimeconfig.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\H-Two-numbers\H-Two-numbers\obj\Debug\net8.0\ref\H-Two-numbers.dll

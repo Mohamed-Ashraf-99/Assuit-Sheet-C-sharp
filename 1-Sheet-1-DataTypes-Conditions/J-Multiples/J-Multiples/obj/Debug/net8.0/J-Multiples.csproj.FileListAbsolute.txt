@@ -1,0 +1,14 @@
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\J-Multiples\J-Multiples\bin\Debug\net8.0\J-Multiples.exe
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\J-Multiples\J-Multiples\bin\Debug\net8.0\J-Multiples.deps.json
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\J-Multiples\J-Multiples\bin\Debug\net8.0\J-Multiples.runtimeconfig.json
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\J-Multiples\J-Multiples\bin\Debug\net8.0\J-Multiples.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\J-Multiples\J-Multiples\bin\Debug\net8.0\J-Multiples.pdb
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\J-Multiples\J-Multiples\obj\Debug\net8.0\J-Multiples.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\J-Multiples\J-Multiples\obj\Debug\net8.0\J-Multiples.AssemblyInfoInputs.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\J-Multiples\J-Multiples\obj\Debug\net8.0\J-Multiples.AssemblyInfo.cs
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\J-Multiples\J-Multiples\obj\Debug\net8.0\J-Multiples.csproj.CoreCompileInputs.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\J-Multiples\J-Multiples\obj\Debug\net8.0\J-Multiples.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\J-Multiples\J-Multiples\obj\Debug\net8.0\refint\J-Multiples.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\J-Multiples\J-Multiples\obj\Debug\net8.0\J-Multiples.pdb
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\J-Multiples\J-Multiples\obj\Debug\net8.0\J-Multiples.genruntimeconfig.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\J-Multiples\J-Multiples\obj\Debug\net8.0\ref\J-Multiples.dll

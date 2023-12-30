@@ -1,0 +1,14 @@
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\K-Max-and-Min\K-Max-and-Min\bin\Debug\net8.0\K-Max-and-Min.exe
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\K-Max-and-Min\K-Max-and-Min\bin\Debug\net8.0\K-Max-and-Min.deps.json
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\K-Max-and-Min\K-Max-and-Min\bin\Debug\net8.0\K-Max-and-Min.runtimeconfig.json
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\K-Max-and-Min\K-Max-and-Min\bin\Debug\net8.0\K-Max-and-Min.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\K-Max-and-Min\K-Max-and-Min\bin\Debug\net8.0\K-Max-and-Min.pdb
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\K-Max-and-Min\K-Max-and-Min\obj\Debug\net8.0\K-Max-and-Min.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\K-Max-and-Min\K-Max-and-Min\obj\Debug\net8.0\K-Max-and-Min.AssemblyInfoInputs.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\K-Max-and-Min\K-Max-and-Min\obj\Debug\net8.0\K-Max-and-Min.AssemblyInfo.cs
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\K-Max-and-Min\K-Max-and-Min\obj\Debug\net8.0\K-Max-and-Min.csproj.CoreCompileInputs.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\K-Max-and-Min\K-Max-and-Min\obj\Debug\net8.0\K-Max-and-Min.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\K-Max-and-Min\K-Max-and-Min\obj\Debug\net8.0\refint\K-Max-and-Min.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\K-Max-and-Min\K-Max-and-Min\obj\Debug\net8.0\K-Max-and-Min.pdb
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\K-Max-and-Min\K-Max-and-Min\obj\Debug\net8.0\K-Max-and-Min.genruntimeconfig.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\K-Max-and-Min\K-Max-and-Min\obj\Debug\net8.0\ref\K-Max-and-Min.dll
