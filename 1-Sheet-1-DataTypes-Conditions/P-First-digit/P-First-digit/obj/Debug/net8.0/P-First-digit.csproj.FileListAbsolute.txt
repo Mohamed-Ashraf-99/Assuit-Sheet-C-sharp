@@ -1,0 +1,14 @@
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\P-First-digit\P-First-digit\bin\Debug\net8.0\P-First-digit.exe
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\P-First-digit\P-First-digit\bin\Debug\net8.0\P-First-digit.deps.json
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\P-First-digit\P-First-digit\bin\Debug\net8.0\P-First-digit.runtimeconfig.json
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\P-First-digit\P-First-digit\bin\Debug\net8.0\P-First-digit.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\P-First-digit\P-First-digit\bin\Debug\net8.0\P-First-digit.pdb
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\P-First-digit\P-First-digit\obj\Debug\net8.0\P-First-digit.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\P-First-digit\P-First-digit\obj\Debug\net8.0\P-First-digit.AssemblyInfoInputs.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\P-First-digit\P-First-digit\obj\Debug\net8.0\P-First-digit.AssemblyInfo.cs
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\P-First-digit\P-First-digit\obj\Debug\net8.0\P-First-digit.csproj.CoreCompileInputs.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\P-First-digit\P-First-digit\obj\Debug\net8.0\P-First-digit.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\P-First-digit\P-First-digit\obj\Debug\net8.0\refint\P-First-digit.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\P-First-digit\P-First-digit\obj\Debug\net8.0\P-First-digit.pdb
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\P-First-digit\P-First-digit\obj\Debug\net8.0\P-First-digit.genruntimeconfig.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\P-First-digit\P-First-digit\obj\Debug\net8.0\ref\P-First-digit.dll

@@ -1,0 +1,14 @@
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\M-Capital-or-Small-or-Digit\M-Capital-or-Small-or-Digit\bin\Debug\net8.0\M-Capital-or-Small-or-Digit.exe
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\M-Capital-or-Small-or-Digit\M-Capital-or-Small-or-Digit\bin\Debug\net8.0\M-Capital-or-Small-or-Digit.deps.json
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\M-Capital-or-Small-or-Digit\M-Capital-or-Small-or-Digit\bin\Debug\net8.0\M-Capital-or-Small-or-Digit.runtimeconfig.json
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\M-Capital-or-Small-or-Digit\M-Capital-or-Small-or-Digit\bin\Debug\net8.0\M-Capital-or-Small-or-Digit.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\M-Capital-or-Small-or-Digit\M-Capital-or-Small-or-Digit\bin\Debug\net8.0\M-Capital-or-Small-or-Digit.pdb
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\M-Capital-or-Small-or-Digit\M-Capital-or-Small-or-Digit\obj\Debug\net8.0\M-Capital-or-Small-or-Digit.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\M-Capital-or-Small-or-Digit\M-Capital-or-Small-or-Digit\obj\Debug\net8.0\M-Capital-or-Small-or-Digit.AssemblyInfoInputs.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\M-Capital-or-Small-or-Digit\M-Capital-or-Small-or-Digit\obj\Debug\net8.0\M-Capital-or-Small-or-Digit.AssemblyInfo.cs
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\M-Capital-or-Small-or-Digit\M-Capital-or-Small-or-Digit\obj\Debug\net8.0\M-Capital-or-Small-or-Digit.csproj.CoreCompileInputs.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\M-Capital-or-Small-or-Digit\M-Capital-or-Small-or-Digit\obj\Debug\net8.0\M-Capital-or-Small-or-Digit.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\M-Capital-or-Small-or-Digit\M-Capital-or-Small-or-Digit\obj\Debug\net8.0\refint\M-Capital-or-Small-or-Digit.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\M-Capital-or-Small-or-Digit\M-Capital-or-Small-or-Digit\obj\Debug\net8.0\M-Capital-or-Small-or-Digit.pdb
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\M-Capital-or-Small-or-Digit\M-Capital-or-Small-or-Digit\obj\Debug\net8.0\M-Capital-or-Small-or-Digit.genruntimeconfig.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\1-Sheet-1-DataTypes-Conditions\M-Capital-or-Small-or-Digit\M-Capital-or-Small-or-Digit\obj\Debug\net8.0\ref\M-Capital-or-Small-or-Digit.dll
