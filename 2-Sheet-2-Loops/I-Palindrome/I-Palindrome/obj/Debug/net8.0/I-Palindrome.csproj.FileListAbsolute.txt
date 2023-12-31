@@ -1,0 +1,14 @@
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\I-Palindrome\I-Palindrome\bin\Debug\net8.0\I-Palindrome.exe
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\I-Palindrome\I-Palindrome\bin\Debug\net8.0\I-Palindrome.deps.json
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\I-Palindrome\I-Palindrome\bin\Debug\net8.0\I-Palindrome.runtimeconfig.json
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\I-Palindrome\I-Palindrome\bin\Debug\net8.0\I-Palindrome.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\I-Palindrome\I-Palindrome\bin\Debug\net8.0\I-Palindrome.pdb
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\I-Palindrome\I-Palindrome\obj\Debug\net8.0\I-Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\I-Palindrome\I-Palindrome\obj\Debug\net8.0\I-Palindrome.AssemblyInfoInputs.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\I-Palindrome\I-Palindrome\obj\Debug\net8.0\I-Palindrome.AssemblyInfo.cs
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\I-Palindrome\I-Palindrome\obj\Debug\net8.0\I-Palindrome.csproj.CoreCompileInputs.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\I-Palindrome\I-Palindrome\obj\Debug\net8.0\I-Palindrome.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\I-Palindrome\I-Palindrome\obj\Debug\net8.0\refint\I-Palindrome.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\I-Palindrome\I-Palindrome\obj\Debug\net8.0\I-Palindrome.pdb
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\I-Palindrome\I-Palindrome\obj\Debug\net8.0\I-Palindrome.genruntimeconfig.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\I-Palindrome\I-Palindrome\obj\Debug\net8.0\ref\I-Palindrome.dll
