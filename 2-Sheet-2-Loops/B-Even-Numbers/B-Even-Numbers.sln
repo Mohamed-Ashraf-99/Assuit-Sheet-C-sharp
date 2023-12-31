@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "B-Even-Numbers", "B-Even-Numbers\B-Even-Numbers.csproj", "{617BE39A-DCD3-4B63-83F4-29EC3D8284F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{617BE39A-DCD3-4B63-83F4-29EC3D8284F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{617BE39A-DCD3-4B63-83F4-29EC3D8284F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{617BE39A-DCD3-4B63-83F4-29EC3D8284F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{617BE39A-DCD3-4B63-83F4-29EC3D8284F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

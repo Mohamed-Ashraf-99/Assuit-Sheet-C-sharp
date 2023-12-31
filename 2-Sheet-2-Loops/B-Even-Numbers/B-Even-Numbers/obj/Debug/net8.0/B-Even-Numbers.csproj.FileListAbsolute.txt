@@ -1,0 +1,14 @@
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\B-Even-Numbers\B-Even-Numbers\bin\Debug\net8.0\B-Even-Numbers.exe
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\B-Even-Numbers\B-Even-Numbers\bin\Debug\net8.0\B-Even-Numbers.deps.json
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\B-Even-Numbers\B-Even-Numbers\bin\Debug\net8.0\B-Even-Numbers.runtimeconfig.json
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\B-Even-Numbers\B-Even-Numbers\bin\Debug\net8.0\B-Even-Numbers.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\B-Even-Numbers\B-Even-Numbers\bin\Debug\net8.0\B-Even-Numbers.pdb
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\B-Even-Numbers\B-Even-Numbers\obj\Debug\net8.0\B-Even-Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\B-Even-Numbers\B-Even-Numbers\obj\Debug\net8.0\B-Even-Numbers.AssemblyInfoInputs.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\B-Even-Numbers\B-Even-Numbers\obj\Debug\net8.0\B-Even-Numbers.AssemblyInfo.cs
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\B-Even-Numbers\B-Even-Numbers\obj\Debug\net8.0\B-Even-Numbers.csproj.CoreCompileInputs.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\B-Even-Numbers\B-Even-Numbers\obj\Debug\net8.0\B-Even-Numbers.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\B-Even-Numbers\B-Even-Numbers\obj\Debug\net8.0\refint\B-Even-Numbers.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\B-Even-Numbers\B-Even-Numbers\obj\Debug\net8.0\B-Even-Numbers.pdb
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\B-Even-Numbers\B-Even-Numbers\obj\Debug\net8.0\B-Even-Numbers.genruntimeconfig.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\B-Even-Numbers\B-Even-Numbers\obj\Debug\net8.0\ref\B-Even-Numbers.dll

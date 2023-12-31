@@ -1,0 +1,14 @@
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\F-Multiplication-table\F-Multiplication-table\bin\Debug\net8.0\F-Multiplication-table.exe
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\F-Multiplication-table\F-Multiplication-table\bin\Debug\net8.0\F-Multiplication-table.deps.json
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\F-Multiplication-table\F-Multiplication-table\bin\Debug\net8.0\F-Multiplication-table.runtimeconfig.json
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\F-Multiplication-table\F-Multiplication-table\bin\Debug\net8.0\F-Multiplication-table.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\F-Multiplication-table\F-Multiplication-table\bin\Debug\net8.0\F-Multiplication-table.pdb
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\F-Multiplication-table\F-Multiplication-table\obj\Debug\net8.0\F-Multiplication-table.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\F-Multiplication-table\F-Multiplication-table\obj\Debug\net8.0\F-Multiplication-table.AssemblyInfoInputs.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\F-Multiplication-table\F-Multiplication-table\obj\Debug\net8.0\F-Multiplication-table.AssemblyInfo.cs
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\F-Multiplication-table\F-Multiplication-table\obj\Debug\net8.0\F-Multiplication-table.csproj.CoreCompileInputs.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\F-Multiplication-table\F-Multiplication-table\obj\Debug\net8.0\F-Multiplication-table.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\F-Multiplication-table\F-Multiplication-table\obj\Debug\net8.0\refint\F-Multiplication-table.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\F-Multiplication-table\F-Multiplication-table\obj\Debug\net8.0\F-Multiplication-table.pdb
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\F-Multiplication-table\F-Multiplication-table\obj\Debug\net8.0\F-Multiplication-table.genruntimeconfig.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\F-Multiplication-table\F-Multiplication-table\obj\Debug\net8.0\ref\F-Multiplication-table.dll
