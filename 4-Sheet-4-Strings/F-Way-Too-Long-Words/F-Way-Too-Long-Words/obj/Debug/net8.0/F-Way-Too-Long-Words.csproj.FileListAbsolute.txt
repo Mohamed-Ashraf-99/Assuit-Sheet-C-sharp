@@ -1,0 +1,14 @@
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\F-Way-Too-Long-Words\F-Way-Too-Long-Words\bin\Debug\net8.0\F-Way-Too-Long-Words.exe
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\F-Way-Too-Long-Words\F-Way-Too-Long-Words\bin\Debug\net8.0\F-Way-Too-Long-Words.deps.json
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\F-Way-Too-Long-Words\F-Way-Too-Long-Words\bin\Debug\net8.0\F-Way-Too-Long-Words.runtimeconfig.json
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\F-Way-Too-Long-Words\F-Way-Too-Long-Words\bin\Debug\net8.0\F-Way-Too-Long-Words.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\F-Way-Too-Long-Words\F-Way-Too-Long-Words\bin\Debug\net8.0\F-Way-Too-Long-Words.pdb
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\F-Way-Too-Long-Words\F-Way-Too-Long-Words\obj\Debug\net8.0\F-Way-Too-Long-Words.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\F-Way-Too-Long-Words\F-Way-Too-Long-Words\obj\Debug\net8.0\F-Way-Too-Long-Words.AssemblyInfoInputs.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\F-Way-Too-Long-Words\F-Way-Too-Long-Words\obj\Debug\net8.0\F-Way-Too-Long-Words.AssemblyInfo.cs
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\F-Way-Too-Long-Words\F-Way-Too-Long-Words\obj\Debug\net8.0\F-Way-Too-Long-Words.csproj.CoreCompileInputs.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\F-Way-Too-Long-Words\F-Way-Too-Long-Words\obj\Debug\net8.0\F-Way-Too-Long-Words.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\F-Way-Too-Long-Words\F-Way-Too-Long-Words\obj\Debug\net8.0\refint\F-Way-Too-Long-Words.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\F-Way-Too-Long-Words\F-Way-Too-Long-Words\obj\Debug\net8.0\F-Way-Too-Long-Words.pdb
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\F-Way-Too-Long-Words\F-Way-Too-Long-Words\obj\Debug\net8.0\F-Way-Too-Long-Words.genruntimeconfig.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\F-Way-Too-Long-Words\F-Way-Too-Long-Words\obj\Debug\net8.0\ref\F-Way-Too-Long-Words.dll

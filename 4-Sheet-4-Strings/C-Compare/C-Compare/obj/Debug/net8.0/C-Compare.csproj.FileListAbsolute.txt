@@ -1,0 +1,14 @@
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\C-Compare\C-Compare\bin\Debug\net8.0\C-Compare.exe
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\C-Compare\C-Compare\bin\Debug\net8.0\C-Compare.deps.json
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\C-Compare\C-Compare\bin\Debug\net8.0\C-Compare.runtimeconfig.json
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\C-Compare\C-Compare\bin\Debug\net8.0\C-Compare.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\C-Compare\C-Compare\bin\Debug\net8.0\C-Compare.pdb
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\C-Compare\C-Compare\obj\Debug\net8.0\C-Compare.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\C-Compare\C-Compare\obj\Debug\net8.0\C-Compare.AssemblyInfoInputs.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\C-Compare\C-Compare\obj\Debug\net8.0\C-Compare.AssemblyInfo.cs
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\C-Compare\C-Compare\obj\Debug\net8.0\C-Compare.csproj.CoreCompileInputs.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\C-Compare\C-Compare\obj\Debug\net8.0\C-Compare.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\C-Compare\C-Compare\obj\Debug\net8.0\refint\C-Compare.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\C-Compare\C-Compare\obj\Debug\net8.0\C-Compare.pdb
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\C-Compare\C-Compare\obj\Debug\net8.0\C-Compare.genruntimeconfig.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\C-Compare\C-Compare\obj\Debug\net8.0\ref\C-Compare.dll

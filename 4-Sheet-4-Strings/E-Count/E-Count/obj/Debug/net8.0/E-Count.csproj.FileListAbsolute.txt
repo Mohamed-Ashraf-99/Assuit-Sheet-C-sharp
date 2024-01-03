@@ -1,0 +1,14 @@
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\E-Count\E-Count\bin\Debug\net8.0\E-Count.exe
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\E-Count\E-Count\bin\Debug\net8.0\E-Count.deps.json
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\E-Count\E-Count\bin\Debug\net8.0\E-Count.runtimeconfig.json
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\E-Count\E-Count\bin\Debug\net8.0\E-Count.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\E-Count\E-Count\bin\Debug\net8.0\E-Count.pdb
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\E-Count\E-Count\obj\Debug\net8.0\E-Count.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\E-Count\E-Count\obj\Debug\net8.0\E-Count.AssemblyInfoInputs.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\E-Count\E-Count\obj\Debug\net8.0\E-Count.AssemblyInfo.cs
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\E-Count\E-Count\obj\Debug\net8.0\E-Count.csproj.CoreCompileInputs.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\E-Count\E-Count\obj\Debug\net8.0\E-Count.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\E-Count\E-Count\obj\Debug\net8.0\refint\E-Count.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\E-Count\E-Count\obj\Debug\net8.0\E-Count.pdb
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\E-Count\E-Count\obj\Debug\net8.0\E-Count.genruntimeconfig.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\E-Count\E-Count\obj\Debug\net8.0\ref\E-Count.dll

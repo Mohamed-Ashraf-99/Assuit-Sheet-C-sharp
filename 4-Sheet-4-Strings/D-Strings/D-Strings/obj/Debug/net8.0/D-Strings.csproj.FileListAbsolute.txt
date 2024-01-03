@@ -1,0 +1,14 @@
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\D-Strings\D-Strings\bin\Debug\net8.0\D-Strings.exe
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\D-Strings\D-Strings\bin\Debug\net8.0\D-Strings.deps.json
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\D-Strings\D-Strings\bin\Debug\net8.0\D-Strings.runtimeconfig.json
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\D-Strings\D-Strings\bin\Debug\net8.0\D-Strings.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\D-Strings\D-Strings\bin\Debug\net8.0\D-Strings.pdb
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\D-Strings\D-Strings\obj\Debug\net8.0\D-Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\D-Strings\D-Strings\obj\Debug\net8.0\D-Strings.AssemblyInfoInputs.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\D-Strings\D-Strings\obj\Debug\net8.0\D-Strings.AssemblyInfo.cs
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\D-Strings\D-Strings\obj\Debug\net8.0\D-Strings.csproj.CoreCompileInputs.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\D-Strings\D-Strings\obj\Debug\net8.0\D-Strings.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\D-Strings\D-Strings\obj\Debug\net8.0\refint\D-Strings.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\D-Strings\D-Strings\obj\Debug\net8.0\D-Strings.pdb
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\D-Strings\D-Strings\obj\Debug\net8.0\D-Strings.genruntimeconfig.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\D-Strings\D-Strings\obj\Debug\net8.0\ref\D-Strings.dll

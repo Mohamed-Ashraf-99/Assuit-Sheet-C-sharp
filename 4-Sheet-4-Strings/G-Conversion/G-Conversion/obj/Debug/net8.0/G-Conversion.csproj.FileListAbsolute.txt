@@ -1,0 +1,14 @@
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\G-Conversion\G-Conversion\bin\Debug\net8.0\G-Conversion.exe
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\G-Conversion\G-Conversion\bin\Debug\net8.0\G-Conversion.deps.json
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\G-Conversion\G-Conversion\bin\Debug\net8.0\G-Conversion.runtimeconfig.json
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\G-Conversion\G-Conversion\bin\Debug\net8.0\G-Conversion.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\G-Conversion\G-Conversion\bin\Debug\net8.0\G-Conversion.pdb
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\G-Conversion\G-Conversion\obj\Debug\net8.0\G-Conversion.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\G-Conversion\G-Conversion\obj\Debug\net8.0\G-Conversion.AssemblyInfoInputs.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\G-Conversion\G-Conversion\obj\Debug\net8.0\G-Conversion.AssemblyInfo.cs
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\G-Conversion\G-Conversion\obj\Debug\net8.0\G-Conversion.csproj.CoreCompileInputs.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\G-Conversion\G-Conversion\obj\Debug\net8.0\G-Conversion.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\G-Conversion\G-Conversion\obj\Debug\net8.0\refint\G-Conversion.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\G-Conversion\G-Conversion\obj\Debug\net8.0\G-Conversion.pdb
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\G-Conversion\G-Conversion\obj\Debug\net8.0\G-Conversion.genruntimeconfig.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\G-Conversion\G-Conversion\obj\Debug\net8.0\ref\G-Conversion.dll
