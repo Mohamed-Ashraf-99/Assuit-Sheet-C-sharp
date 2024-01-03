@@ -1,0 +1,14 @@
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\A-Create-A-New-String\A-Create-A-New-String\bin\Debug\net8.0\A-Create-A-New-String.exe
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\A-Create-A-New-String\A-Create-A-New-String\bin\Debug\net8.0\A-Create-A-New-String.deps.json
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\A-Create-A-New-String\A-Create-A-New-String\bin\Debug\net8.0\A-Create-A-New-String.runtimeconfig.json
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\A-Create-A-New-String\A-Create-A-New-String\bin\Debug\net8.0\A-Create-A-New-String.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\A-Create-A-New-String\A-Create-A-New-String\bin\Debug\net8.0\A-Create-A-New-String.pdb
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\A-Create-A-New-String\A-Create-A-New-String\obj\Debug\net8.0\A-Create-A-New-String.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\A-Create-A-New-String\A-Create-A-New-String\obj\Debug\net8.0\A-Create-A-New-String.AssemblyInfoInputs.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\A-Create-A-New-String\A-Create-A-New-String\obj\Debug\net8.0\A-Create-A-New-String.AssemblyInfo.cs
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\A-Create-A-New-String\A-Create-A-New-String\obj\Debug\net8.0\A-Create-A-New-String.csproj.CoreCompileInputs.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\A-Create-A-New-String\A-Create-A-New-String\obj\Debug\net8.0\A-Create-A-New-String.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\A-Create-A-New-String\A-Create-A-New-String\obj\Debug\net8.0\refint\A-Create-A-New-String.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\A-Create-A-New-String\A-Create-A-New-String\obj\Debug\net8.0\A-Create-A-New-String.pdb
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\A-Create-A-New-String\A-Create-A-New-String\obj\Debug\net8.0\A-Create-A-New-String.genruntimeconfig.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\A-Create-A-New-String\A-Create-A-New-String\obj\Debug\net8.0\ref\A-Create-A-New-String.dll
