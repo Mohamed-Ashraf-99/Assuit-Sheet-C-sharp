@@ -1,0 +1,14 @@
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\L-GCD\L-GCD\bin\Debug\net8.0\L-GCD.exe
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\L-GCD\L-GCD\bin\Debug\net8.0\L-GCD.deps.json
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\L-GCD\L-GCD\bin\Debug\net8.0\L-GCD.runtimeconfig.json
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\L-GCD\L-GCD\bin\Debug\net8.0\L-GCD.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\L-GCD\L-GCD\bin\Debug\net8.0\L-GCD.pdb
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\L-GCD\L-GCD\obj\Debug\net8.0\L-GCD.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\L-GCD\L-GCD\obj\Debug\net8.0\L-GCD.AssemblyInfoInputs.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\L-GCD\L-GCD\obj\Debug\net8.0\L-GCD.AssemblyInfo.cs
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\L-GCD\L-GCD\obj\Debug\net8.0\L-GCD.csproj.CoreCompileInputs.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\L-GCD\L-GCD\obj\Debug\net8.0\L-GCD.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\L-GCD\L-GCD\obj\Debug\net8.0\refint\L-GCD.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\L-GCD\L-GCD\obj\Debug\net8.0\L-GCD.pdb
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\L-GCD\L-GCD\obj\Debug\net8.0\L-GCD.genruntimeconfig.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\L-GCD\L-GCD\obj\Debug\net8.0\ref\L-GCD.dll

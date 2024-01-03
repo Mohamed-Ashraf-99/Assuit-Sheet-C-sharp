@@ -1,0 +1,14 @@
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\M-Lucky-Numbers\M-Lucky-Numbers\bin\Debug\net8.0\M-Lucky-Numbers.exe
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\M-Lucky-Numbers\M-Lucky-Numbers\bin\Debug\net8.0\M-Lucky-Numbers.deps.json
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\M-Lucky-Numbers\M-Lucky-Numbers\bin\Debug\net8.0\M-Lucky-Numbers.runtimeconfig.json
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\M-Lucky-Numbers\M-Lucky-Numbers\bin\Debug\net8.0\M-Lucky-Numbers.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\M-Lucky-Numbers\M-Lucky-Numbers\bin\Debug\net8.0\M-Lucky-Numbers.pdb
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\M-Lucky-Numbers\M-Lucky-Numbers\obj\Debug\net8.0\M-Lucky-Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\M-Lucky-Numbers\M-Lucky-Numbers\obj\Debug\net8.0\M-Lucky-Numbers.AssemblyInfoInputs.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\M-Lucky-Numbers\M-Lucky-Numbers\obj\Debug\net8.0\M-Lucky-Numbers.AssemblyInfo.cs
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\M-Lucky-Numbers\M-Lucky-Numbers\obj\Debug\net8.0\M-Lucky-Numbers.csproj.CoreCompileInputs.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\M-Lucky-Numbers\M-Lucky-Numbers\obj\Debug\net8.0\M-Lucky-Numbers.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\M-Lucky-Numbers\M-Lucky-Numbers\obj\Debug\net8.0\refint\M-Lucky-Numbers.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\M-Lucky-Numbers\M-Lucky-Numbers\obj\Debug\net8.0\M-Lucky-Numbers.pdb
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\M-Lucky-Numbers\M-Lucky-Numbers\obj\Debug\net8.0\M-Lucky-Numbers.genruntimeconfig.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\M-Lucky-Numbers\M-Lucky-Numbers\obj\Debug\net8.0\ref\M-Lucky-Numbers.dll

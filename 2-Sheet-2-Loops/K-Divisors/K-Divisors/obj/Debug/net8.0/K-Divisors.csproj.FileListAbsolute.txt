@@ -1,0 +1,14 @@
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\K-Divisors\K-Divisors\bin\Debug\net8.0\K-Divisors.exe
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\K-Divisors\K-Divisors\bin\Debug\net8.0\K-Divisors.deps.json
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\K-Divisors\K-Divisors\bin\Debug\net8.0\K-Divisors.runtimeconfig.json
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\K-Divisors\K-Divisors\bin\Debug\net8.0\K-Divisors.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\K-Divisors\K-Divisors\bin\Debug\net8.0\K-Divisors.pdb
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\K-Divisors\K-Divisors\obj\Debug\net8.0\K-Divisors.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\K-Divisors\K-Divisors\obj\Debug\net8.0\K-Divisors.AssemblyInfoInputs.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\K-Divisors\K-Divisors\obj\Debug\net8.0\K-Divisors.AssemblyInfo.cs
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\K-Divisors\K-Divisors\obj\Debug\net8.0\K-Divisors.csproj.CoreCompileInputs.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\K-Divisors\K-Divisors\obj\Debug\net8.0\K-Divisors.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\K-Divisors\K-Divisors\obj\Debug\net8.0\refint\K-Divisors.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\K-Divisors\K-Divisors\obj\Debug\net8.0\K-Divisors.pdb
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\K-Divisors\K-Divisors\obj\Debug\net8.0\K-Divisors.genruntimeconfig.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\2-Sheet-2-Loops\K-Divisors\K-Divisors\obj\Debug\net8.0\ref\K-Divisors.dll
