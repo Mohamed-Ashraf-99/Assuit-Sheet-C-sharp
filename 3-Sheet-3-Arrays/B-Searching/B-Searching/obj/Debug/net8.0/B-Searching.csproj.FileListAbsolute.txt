@@ -1,0 +1,14 @@
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\3-Sheet-3-Arrays\B-Searching\B-Searching\bin\Debug\net8.0\B-Searching.exe
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\3-Sheet-3-Arrays\B-Searching\B-Searching\bin\Debug\net8.0\B-Searching.deps.json
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\3-Sheet-3-Arrays\B-Searching\B-Searching\bin\Debug\net8.0\B-Searching.runtimeconfig.json
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\3-Sheet-3-Arrays\B-Searching\B-Searching\bin\Debug\net8.0\B-Searching.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\3-Sheet-3-Arrays\B-Searching\B-Searching\bin\Debug\net8.0\B-Searching.pdb
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\3-Sheet-3-Arrays\B-Searching\B-Searching\obj\Debug\net8.0\B-Searching.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\3-Sheet-3-Arrays\B-Searching\B-Searching\obj\Debug\net8.0\B-Searching.AssemblyInfoInputs.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\3-Sheet-3-Arrays\B-Searching\B-Searching\obj\Debug\net8.0\B-Searching.AssemblyInfo.cs
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\3-Sheet-3-Arrays\B-Searching\B-Searching\obj\Debug\net8.0\B-Searching.csproj.CoreCompileInputs.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\3-Sheet-3-Arrays\B-Searching\B-Searching\obj\Debug\net8.0\B-Searching.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\3-Sheet-3-Arrays\B-Searching\B-Searching\obj\Debug\net8.0\refint\B-Searching.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\3-Sheet-3-Arrays\B-Searching\B-Searching\obj\Debug\net8.0\B-Searching.pdb
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\3-Sheet-3-Arrays\B-Searching\B-Searching\obj\Debug\net8.0\B-Searching.genruntimeconfig.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\3-Sheet-3-Arrays\B-Searching\B-Searching\obj\Debug\net8.0\ref\B-Searching.dll

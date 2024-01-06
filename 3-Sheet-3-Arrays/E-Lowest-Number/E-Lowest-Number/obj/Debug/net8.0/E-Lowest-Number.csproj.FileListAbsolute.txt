@@ -1,0 +1,14 @@
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\3-Sheet-3-Arrays\E-Lowest-Number\E-Lowest-Number\bin\Debug\net8.0\E-Lowest-Number.exe
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\3-Sheet-3-Arrays\E-Lowest-Number\E-Lowest-Number\bin\Debug\net8.0\E-Lowest-Number.deps.json
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\3-Sheet-3-Arrays\E-Lowest-Number\E-Lowest-Number\bin\Debug\net8.0\E-Lowest-Number.runtimeconfig.json
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\3-Sheet-3-Arrays\E-Lowest-Number\E-Lowest-Number\bin\Debug\net8.0\E-Lowest-Number.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\3-Sheet-3-Arrays\E-Lowest-Number\E-Lowest-Number\bin\Debug\net8.0\E-Lowest-Number.pdb
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\3-Sheet-3-Arrays\E-Lowest-Number\E-Lowest-Number\obj\Debug\net8.0\E-Lowest-Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\3-Sheet-3-Arrays\E-Lowest-Number\E-Lowest-Number\obj\Debug\net8.0\E-Lowest-Number.AssemblyInfoInputs.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\3-Sheet-3-Arrays\E-Lowest-Number\E-Lowest-Number\obj\Debug\net8.0\E-Lowest-Number.AssemblyInfo.cs
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\3-Sheet-3-Arrays\E-Lowest-Number\E-Lowest-Number\obj\Debug\net8.0\E-Lowest-Number.csproj.CoreCompileInputs.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\3-Sheet-3-Arrays\E-Lowest-Number\E-Lowest-Number\obj\Debug\net8.0\E-Lowest-Number.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\3-Sheet-3-Arrays\E-Lowest-Number\E-Lowest-Number\obj\Debug\net8.0\refint\E-Lowest-Number.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\3-Sheet-3-Arrays\E-Lowest-Number\E-Lowest-Number\obj\Debug\net8.0\E-Lowest-Number.pdb
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\3-Sheet-3-Arrays\E-Lowest-Number\E-Lowest-Number\obj\Debug\net8.0\E-Lowest-Number.genruntimeconfig.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\3-Sheet-3-Arrays\E-Lowest-Number\E-Lowest-Number\obj\Debug\net8.0\ref\E-Lowest-Number.dll

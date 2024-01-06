@@ -1,0 +1,14 @@
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\3-Sheet-3-Arrays\D-Positions-in-array\D-Positions-in-array\bin\Debug\net8.0\D-Positions-in-array.exe
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\3-Sheet-3-Arrays\D-Positions-in-array\D-Positions-in-array\bin\Debug\net8.0\D-Positions-in-array.deps.json
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\3-Sheet-3-Arrays\D-Positions-in-array\D-Positions-in-array\bin\Debug\net8.0\D-Positions-in-array.runtimeconfig.json
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\3-Sheet-3-Arrays\D-Positions-in-array\D-Positions-in-array\bin\Debug\net8.0\D-Positions-in-array.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\3-Sheet-3-Arrays\D-Positions-in-array\D-Positions-in-array\bin\Debug\net8.0\D-Positions-in-array.pdb
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\3-Sheet-3-Arrays\D-Positions-in-array\D-Positions-in-array\obj\Debug\net8.0\D-Positions-in-array.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\3-Sheet-3-Arrays\D-Positions-in-array\D-Positions-in-array\obj\Debug\net8.0\D-Positions-in-array.AssemblyInfoInputs.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\3-Sheet-3-Arrays\D-Positions-in-array\D-Positions-in-array\obj\Debug\net8.0\D-Positions-in-array.AssemblyInfo.cs
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\3-Sheet-3-Arrays\D-Positions-in-array\D-Positions-in-array\obj\Debug\net8.0\D-Positions-in-array.csproj.CoreCompileInputs.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\3-Sheet-3-Arrays\D-Positions-in-array\D-Positions-in-array\obj\Debug\net8.0\D-Positions-in-array.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\3-Sheet-3-Arrays\D-Positions-in-array\D-Positions-in-array\obj\Debug\net8.0\refint\D-Positions-in-array.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\3-Sheet-3-Arrays\D-Positions-in-array\D-Positions-in-array\obj\Debug\net8.0\D-Positions-in-array.pdb
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\3-Sheet-3-Arrays\D-Positions-in-array\D-Positions-in-array\obj\Debug\net8.0\D-Positions-in-array.genruntimeconfig.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\3-Sheet-3-Arrays\D-Positions-in-array\D-Positions-in-array\obj\Debug\net8.0\ref\D-Positions-in-array.dll
