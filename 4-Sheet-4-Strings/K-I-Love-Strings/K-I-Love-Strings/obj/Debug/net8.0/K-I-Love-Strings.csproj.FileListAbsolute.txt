@@ -1,0 +1,14 @@
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\K-I-Love-strings\K-I-Love-Strings\bin\Debug\net8.0\K-I-Love-Strings.exe
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\K-I-Love-strings\K-I-Love-Strings\bin\Debug\net8.0\K-I-Love-Strings.deps.json
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\K-I-Love-strings\K-I-Love-Strings\bin\Debug\net8.0\K-I-Love-Strings.runtimeconfig.json
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\K-I-Love-strings\K-I-Love-Strings\bin\Debug\net8.0\K-I-Love-Strings.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\K-I-Love-strings\K-I-Love-Strings\bin\Debug\net8.0\K-I-Love-Strings.pdb
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\K-I-Love-strings\K-I-Love-Strings\obj\Debug\net8.0\K-I-Love-Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\K-I-Love-strings\K-I-Love-Strings\obj\Debug\net8.0\K-I-Love-Strings.AssemblyInfoInputs.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\K-I-Love-strings\K-I-Love-Strings\obj\Debug\net8.0\K-I-Love-Strings.AssemblyInfo.cs
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\K-I-Love-strings\K-I-Love-Strings\obj\Debug\net8.0\K-I-Love-Strings.csproj.CoreCompileInputs.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\K-I-Love-strings\K-I-Love-Strings\obj\Debug\net8.0\K-I-Love-Strings.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\K-I-Love-strings\K-I-Love-Strings\obj\Debug\net8.0\refint\K-I-Love-Strings.dll
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\K-I-Love-strings\K-I-Love-Strings\obj\Debug\net8.0\K-I-Love-Strings.pdb
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\K-I-Love-strings\K-I-Love-Strings\obj\Debug\net8.0\K-I-Love-Strings.genruntimeconfig.cache
+D:\1-Programming\2-ITI-Intake-44\9-C#\1-Assuit-Sheet-C#\4-Sheet-4-Strings\K-I-Love-strings\K-I-Love-Strings\obj\Debug\net8.0\ref\K-I-Love-Strings.dll
